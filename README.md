@@ -25,7 +25,7 @@
                                                                                                                              
 ### :woman_technologist: About Me :
                                                                                                 
-- :telesco Iam currently learning Software Development and contributing to frontend and backend for building web applications.
+- :telescope: Iam currently learning Software Development and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
                                                                                                 
