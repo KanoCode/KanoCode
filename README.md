@@ -23,7 +23,7 @@
 
 ---
                                                                                                                              
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
                                                                                                 
 - :telescope: Iam currently learning Software Development and contributing to frontend and backend for building web applications.
 
@@ -33,7 +33,7 @@
 - :zap: In my free time, I solve problems on Hackerrank, play my guitar and read tech articles.
  - 👯 I’m looking to collaborate on frontend and backend web applications                                                                                          
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanombola-kanombola-a38b061a4/)                                                                                               
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanombola-kanombola/)                                                                                               
                                                                                                 
                                                                                                                              
 <!--
